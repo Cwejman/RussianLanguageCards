@@ -1,0 +1,8 @@
+name: Render Pdf
+on: [push]
+jobs:
+  render-pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: yarn && yarn build
