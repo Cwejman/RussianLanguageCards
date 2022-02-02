@@ -1,32 +1,34 @@
-Array.prototype.chunk = function ( n ) {
-    if ( !this.length ) {
-        return [];
-    }
-    return [ this.slice( 0, n ) ].concat( this.slice(n).chunk(n) );
-};
+import fs from 'fs'
+import path from 'path'
+import React from 'react';
+import ReactPDF, { Font, Page, Text, View, Document, StyleSheet } from '@react-pdf/renderer';
+
+const dictionary = fs.readFileSync(path.resolve(__dirname, 'dictionary.txt'), 'utf8')
+
+const toChunkReducer = size => (acc, _, i, arr) => (i % size)
+  ? acc
+  : [...acc, arr.slice(i, i + size)];
 
 const Quixote = () => {
-  const data = window.raw.split('\n').map(s =>
+  const data = dictionary.split('\n').map(s =>
     (s.split(" ").length - 1) == 1
       ? s.split(' ')
       : s.split(' - '))
 
-  const pages = data.chunk(50)
+  const pages = data
+    .reduce(toChunkReducer(50), [])
     .reduce((acc, chunk) => {
       const piece = chunk.length !== 50
         ? chunk.concat(Array(50 - chunk.length).fill(['', '']))
         : chunk;
-    
+
       return acc
         .concat(piece.map(x => x[0]))
         .concat(piece.map(x => x[1]));
     }, [])
-    .chunk(5)
-    .chunk(10)
+    .reduce(toChunkReducer(5), [])
+    .reduce(toChunkReducer(10), [])
     .map((page, pageN) => pageN % 2 ? page.map(row => row.reverse()) : page);
-  
-  
-  console.log(pages);
 
   return (
     <Document>
@@ -82,4 +84,4 @@ const S = StyleSheet.create({
   },
 });
 
-ReactPDF.render(<Quixote />);
+ReactPDF.render(<Quixote />, `${__dirname}/print.pdf`);
