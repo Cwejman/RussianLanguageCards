@@ -1,0 +1,504 @@
+adress а́дрес
+andra räkn. - второ́й
+annan друго́й
+ansikte лицо́
+antal, datum - число́
+anteckningsblock блокно́т
+april апре́ль
+arbetare kvinna - рабо́чая
+arbetare man - рабо́чий
+arbete рабо́та
+arbets- - рабо́чий
+armé а́рмия
+art, genus - род
+artist, skådespelare - арти́ст
+arton восемна́дцать
+augusti а́вгуст
+avdelning отделе́ние
+badrum ва́нная
+baktill, bakifrån - сза́ди
+bank банк
+bara, uteslutande, endast - то́лько
+barn - ребёнок (pl. де́ти)
+bekant, känd - знако́мый
+bekväm удо́бный
+ben, fot - нога́
+berg гора́
+berömd знамени́тый
+betydelse значе́ние
+bibliotek библиоте́ка
+bil маши́на
+bild, tavla - карти́на
+biljett биле́т
+billig дешёвый
+bio, film - кино́
+bit, stycke - кусо́к
+bitter го́рький
+blankett бланк
+blir, kommer att vara personböjt - я бу́ду, ты бу́дешь, он/она́/оно́ бу́дет; мы бу́дем, вы бу́дете, они́ бу́дут
+blivande бу́дущий
+blåser, det blåser - ду́ет
+bok кни́га
+bokstav бу́ква
+bord стол
+bostads- жило́й
+början нача́ло
+borste щётка
+bra adv - хорошо́
+bra, god - хоро́ший
+bred, vid - широ́кий
+brev, skrift, skrivtecken, skrivkonst - письмо́
+bröd хлеб
+bro мост
+bror брат
+brun кори́чневый
+buss авто́бус
+butik, affär - магази́н
+by (mindre) - дере́вня
+byggnad - зда́ние
+byxor - брю́ки pl.
+centrum центр
+champagne шампа́нское
+cykel велосипе́д
+dag день
+dagens сего́дняшний
+daglig ежедне́вный
+dator компью́тер
+de они́
+december дека́брь
+del часть
+den här, denna - э́тот, э́та, э́то; э́ти
+den, det - оно́
+deras - их
+dessutom, också - та́кже
+det э́то
+det finns - есть
+dit туда́
+djup глубо́кий
+djur живо́тное
+dokument, IDhandling - докуме́нт
+du ты
+dörr дверь
+dotter дочь
+dyr(bar), kär - дорого́й
+dåligt пло́хо
+dålig плохо́й
+där там
+dörr дверь
+efternamn фами́лия
+elev шко́льник/шко́льница
+eller и́ли
+elva оди́ннадцать
+en, ett räkneord - оди́н
+en viss - не́который
+enkel просто́й
+ett ögonblick! - мину́точку!
+exempel приме́р
+fabrik (tyngre) - заво́д
+fadersnamn о́тчество
+familj семья́
+far оте́ц
+farfar, morfar - де́душка
+farmor, mormor - ба́бушка
+fattig бе́дный
+februari февра́ль
+fel adv. - непра́вильно
+fel subst. - оши́бка
+fem пять
+femtio пятдеся́т
+femton пятна́дцать
+film фильм
+fisk ры́ба
+fjorton четы́рнадцать
+flicka, tjej, fröken, yngre kvinna - де́вушк
+flod, älv - река́
+flygplan самолёт
+folk наро́д
+framtiden - бу́дущеев переди́
+fotboll футбо́л
+fråga вопро́с
+från början - снача́ла
+fred мир
+fredag пя́тница
+fri свобо́дный
+frihet свобо́да
+frukost за́втрак
+frukt pl. - фру́кты
+fågel пти́ца
+fält по́ле
+färg цвет
+fönster окно́
+föregående, förra - про́шлый
+föremål, ämne - предме́т
+för länge sedan - давно́
+förmodligen наве́рное
+för mycket - сли́шком
+första пе́рвый
+föräldrar роди́тели
+förändring переме́на
+gammal ста́рый
+ganska дово́льно
+gång раз
+gäst гость
+gata у́лица
+genast, omedelbart - сра́зу
+genus, sort - род
+glad рад
+glad, munter - весёлый
+glasögon очки́
+god, bra - до́брый
+god, smaklig - вку́сный
+grönsaker о́вощи
+grund-, bas- - основно́й
+grupp гру́ппа
+gud бог
+gå - идти́: иду́, идёшь, идёт; идём, идёте, иду́т
+han, den, det - он
+hand, arm - рука́
+handtag, skaft, armstöd, penna m.m. - ру́чка
+hans, dess - его́
+hav мо́ре
+hel це́лый
+hemifrån домо́й
+hemland ро́дина
+hemma до́ма
+hennes, dess - её
+het горя́чий
+historia исто́рия
+hit сюда́
+hjärta се́рдце
+hon, den , det - она́
+hund соба́ка
+hundra сто
+hur? как?
+hur mycket? hur många? - ско́лько?
+hus дом
+hustru, fru - жена́
+huvud голова́
+huvud- гла́вный
+hår - во́лосы (sing. во́лос)
+hård твёрдый
+hög, lång - высо́кий
+höger пра́вый
+högljudd гро́мкий
+höst о́сень
+i - в + lok. (befintlighet); в + ack. (riktning)
+i synnerhet, särskilt - осо́бенно
+ibland иногда́
+idag сего́дня
+igår вчера́
+igen, åter - опя́ть
+imorgon - за́втра
+industri(bransch) - промы́шленность
+information - информа́ция
+inget - ничего́
+institut, institution - институ́т
+inte не
+inte sant? - пра́вда?; не пра́вда ли?
+intill, bredvid - ря́дом
+intressant интере́сный
+jag я
+jag ser - я ви́жу
+jag talar; säger - я говорю́
+jag vet - я зна́ю
+jag vill - я хочу́
+januari янва́рь
+jaså, ...?, .... intesant? - ... да?
+jord земля́
+juli ию́ль
+juni ию́нь
+kaffe ко́фе
+kall холо́дный
+kallt хо́лодно
+kanal кана́л
+kanske - мо́жетбыть
+kant край
+karaktär хара́ктер
+katt ко́шка
+kilo килогра́мм
+kilometer киломе́тр
+kind щека́
+klocka часы́
+kläder - оде́жда
+klass, klassrum - класс
+kommande бу́дущий
+konst иску́сство
+kopek(mynt) - копе́йка
+kort коро́ткий
+korv соси́ска
+krig война́
+kulspetspenna ру́чка
+kultur культу́ра
+kurs, årskurs - курс
+kväll ве́чер
+kvällsmat у́жин
+kvinna же́нщина
+kött - мя́соL
+lag - зако́н
+land страна́
+ledig, fri - свобо́дный
+lektion заня́тие
+lektion, läxa - уро́к
+levande, livlig - живо́й
+linje, streck - ли́ния
+lite - немно́го
+lite, för lite - ма́ло
+liten -ма́ленький
+liten небольшо́й
+liten flicka - де́вочка
+litteratur литерату́ра
+liv жизнь
+ljud звук
+ljus, elström, värld - свет
+lov, ferier - кани́кулы
+luft во́здух
+lunch обе́д
+låg adj - ни́зкий
+lång, avlång - дли́нный
+långsamt ме́дленно
+läge, position - положе́ние
+lägenhet кварти́ра
+läkare врач
+länge до́лго
+lärobok уче́бник
+lätt лёгкий
+lön зарпла́та
+lördag суббо́та
+maj май
+mamma ма́ма
+man мужчи́на
+mars март
+material материа́л
+medel-, mellan- - сре́дний
+meter метр
+min, mitt; mina - мой, моя́, моё; мои́
+minus ми́нус
+minut мину́та
+mjuk мя́гкий
+mobiltelefon моби́льник
+mor мать
+morfar, farfar - де́душка
+mormor, farmor - ба́бушка
+morgon у́тро
+musik му́зыка
+mycket adv - мно́го
+mycket adv - о́чень
+månad - ме́сяц
+måndag - понеде́льник
+måste se läroboken - на́до; ну́жнo
+människa - челове́к (plural лю́ди ’folk’)
+möbler ме́бель
+möte встре́ча
+namn и́мя
+natt ночь
+natur приро́да
+naturligtvis коне́чно
+nej нет
+ner - вниз
+nertill, (där)nere - внизу́
+ni вы
+ni talar - вы говори́те
+ni ser - вы ви́дите
+ni vet - вы зна́ете
+ni vill - вы говори́те
+nio де́вять
+nittio девяно́сто
+nitton девятна́дцать
+normal норма́льный
+normalt, bra, okej - норма́льнo
+norr се́вер
+november ноя́брь
+nu, genast, nyss, strax - сейча́с
+nummer, hotelrumm - но́мер
+ny но́вый
+nyhet но́вость
+nästan почти́
+nödvändig ну́жный
+och, men - а
+också то́же
+ofta ча́сто
+oktober октя́брь
+olika ра́зный
+om - о + lok. Före ord på vokal: об. OBS! även обо мне om mig.
+onsdag - среда́
+ord - сло́во
+ordbok - слова́рь
+ordning - поря́док
+oväntat - неожи́данно
+pappa - па́па
+papper - бума́га
+pengar - де́ньги
+plats - ме́сто
+plus - плюс
+plötsligt - вдруг
+pojke - ма́льчик
+polis - поли́ция
+prov - экза́мен
+punkt - то́чка
+på prep - на + ack/lok
+på dagen - днём
+på hösten - о́сенью
+på kvällen - ве́чером
+på morgonen - у́тром
+på natten - но́чью
+på ryska - по-ру́сски
+på sommaren - ле́том
+på våren - весно́й/весно́ю
+på vintern - зимо́й (зимо́ю)
+radio - ра́дио
+rak - прямо́й
+redan - уже́
+regel - пра́вило
+regering - прави́тельство
+regn - дождь
+relation, inställning, förhållande - отноше́ние
+ren - чи́стый
+rik - бога́тый
+riktig - настоя́щий
+riktig - пра́вильный
+rubel - рубль
+rum - ко́мната
+rund - кру́глый
+rysk adj - ру́сский
+ryss, ryska subst. adj. - ру́сский2
+Ryssland - Росси́я
+Rysslands-, som avser Ryssland, ”ryssländsk” - росси́йский
+rätt - пра́вильно
+rätt, riktig - пра́вый
+röd - кра́сный
+rörelse, trafik - движе́ние
+röst - го́лос
+sak, ting - вещь
+samband - связь
+sanning - пра́вда
+sedan - пото́м
+september - сентя́брь
+sida i bok - страни́ца
+sex - шесть
+sextio - шестдеся́т
+sexton - шестна́дцать
+sida, part - сторона́
+siffra - ци́фра
+sju - семь
+sjuttio - се́мьдесят
+sjutton - семна́дцать
+skog - лес
+skola - шко́ла
+skor, skodon - о́бувь
+slut - коне́ц
+smutsig - гря́зный
+snabbt - бы́стро
+snart - ско́ро
+snö - снег
+sol - со́лнце
+sommar - ле́то
+son - сын
+sort, utsikt, aspekt - вид
+sport - спорт
+språk, tunga - язы́к
+stad - го́род
+stark fysiskt - си́льный
+stilla, tyst - ти́хий
+stol - стул
+stor - большо́й
+student - студе́нт
+stycke, styck, grej, tusenlapp - шту́ка
+svag fysiskt - сла́бый
+svar - отве́т
+svart - чёрный
+svår, komplicerad - тру́дный
+svår, tung, jobbig - тяжёлый
+så - так
+sådan - тако́й
+särskilt - осо́бенно
+sätt, metod - спо́соб
+söder - юг
+söndag - воскресе́нье
+söt - сла́дкий
+tåg - по́езд
+te - чай
+telefon - телефо́н
+temperatur - температу́ра
+tid - вре́мя
+tidning - газе́та
+tidskrift, veckotidning - журна́л
+till - на + ack.; в + ack.
+tillbaka - наза́д
+tillfälle - слу́чай
+till höger; från höger - спра́ва
+tillsammans - вме́сте
+till vänster; från vänster - сле́ва
+timme, klockan ett, i pl. klocka - час
+tio - де́сять
+tisdag - вто́рник
+tjock - то́лстый
+tjugu - два́дцать
+tolv - двена́дцать
+torsdag - четве́рг
+tre - три
+trettio - три́дцать
+tretton - трина́дцать
+trång - у́зкий
+träd - де́рево
+tunn - то́нкий
+tunnelbana - метро́
+TV-apparat - телеви́зор
+tvungen, måste, ska, skyldig (se läroboken) - до́лжен
+två - два
+tåg - по́езд
+ung - молодо́й
+universitet - университе́
+upp, uppåt - наве́рх (höjd), вверх (på papper, boksida)
+uppe, upptill - наверху (höjd), вверху ́(på papper, boksida)
+uppgift зада́ниe - (uppgift, uppdrag); зада́ча (uppgift, problem)
+utländsk - иностра́нны
+vacker - краси́вый
+vad - что?
+vad gäller saken? - в чём де́ло?
+vad är ... för något? - что тако́е ....?
+vad är det för ...? - что э́то за ...?
+vad är klockan? - кото́рый час?; ско́лько вре́мени?
+vanlig - обыкнове́нный
+vanligtvis - обы́чно
+var? - где?
+vara - быть
+varje - ка́ждый
+varm - тёплый
+varmt - тепло́
+vatten - вода́
+vecka - неде́ля
+vem?, vilka? - кто?
+vetenskap - нау́ка
+vi - мы
+vilken (iordningen) - кото́рый
+vilken, hurdan? - како́й?
+viktig - ва́жный
+vind - ве́тер
+vinter - зима́
+vår poss. pron. - наш
+vår årstiden - весна́
+väder - пого́да
+väg - konkret доро́га
+väg abstrakt - путь
+vän - друг
+väninna, kvinnlig
+vän, kvinnlig kompis - подру́га
+vänster - ле́вый
+värld - мир1
+väska - су́мка
+väster - за́пад
+växt - расте́ние
+yrke - профе́ссия
+ytterligare, mer, fortfarande, redan o.s.v. - ещё
+år - год
+åtta - во́семь
+åttio - во́семьдесят
+äkta man, make - муж
+äpple - я́блоко
+ärende, affär, sak - де́ло
+ö - о́стров
+ögon - глаза́ (глаз)
+ögonblick - мину́точка
+öster - восто́к
+övning - упражне́ние
+övrig - остально
