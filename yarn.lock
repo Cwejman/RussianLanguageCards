@@ -169,6 +169,10 @@
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/@tsconfig/node16/-/node16-1.0.2.tgz#423c77877d0569db20e1fc80885ac4118314010e"
 
+"@types/node@17.0.14":
+  version "17.0.14"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-17.0.14.tgz#33b9b94f789a8fedd30a68efdbca4dbb06b61f20"
+
 "@types/yoga-layout@^1.9.3":
   version "1.9.4"
   resolved "https://registry.yarnpkg.com/@types/yoga-layout/-/yoga-layout-1.9.4.tgz#fad54fef623464dacd9e765d854f0e76ff1184f7"
